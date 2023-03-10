@@ -1,16 +1,5 @@
- # calculadora.py
+# caso queira fazer outro tipo de operação, é só mudar o sinal (+, -, *, /) na linha 
 
-print(Calculadora)
-
-num1 = int(input("Digite o número: "))
-num2 = int(input("Digite o número: "))
-
-resultado = num1 + num2
-
-print(resultado)
-
-
-# caso queira  subtrair ou demais, é só trocar o simbolo.
 #soma: + 
 #subtrair: -
 #multiplicar: *
